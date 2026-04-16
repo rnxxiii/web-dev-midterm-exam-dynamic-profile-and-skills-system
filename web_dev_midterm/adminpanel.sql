@@ -1,1 +1,0 @@
-SELECT * FROM adminpanel.native_users;
